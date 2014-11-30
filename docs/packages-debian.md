@@ -2,13 +2,14 @@
 layout: docs
 title: Debian packages
 next_section: community
-permalink: /docs/packages-debian/
+permalink: "/docs/packages-debian/"
+published: true
 ---
 
 Third-party packages for Debian Wheezy are available for amd64, i686,
 arm7/Beaglebone and arm6/Raspberry Pi.
 
-## Quick start
+## Quick start -test
 
 Decide which type of realtime kernel you want: for i686 and amd64,
 your options are RT-PREEMPT, Xenomai, or RTAI. For arm7/Beaglebone and
